@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  background-color: darkslategrey;
+}
+
+#headers {
+  padding: 50px; 
+  font-family: Impact, Impact5, Charcoal6, sans-serif;
+  text-shadow: 0px 0px 40px white;
+  text-align: center;
+  color: white;
+}
